@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BarlangDoga")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf2621c9e0994f873de2143ba84e975d5d286cb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dea8a0eadb5154f1813e89f6c126f845ada41510")]
 [assembly: System.Reflection.AssemblyProductAttribute("BarlangDoga")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BarlangDoga")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
