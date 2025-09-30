@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\pages\\osszesito.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\pages\\osszesito.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\pages\\osszesito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\pages\\osszesito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\pages\\telepulesszur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\pages\\telepulesszur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -30,19 +42,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TelepulesSzur.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\TelepulesSzur.cshtml.cs",
-              "RelativeDocumentMoniker": "BarlangDoga\\Pages\\TelepulesSzur.cshtml.cs",
-              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\TelepulesSzur.cshtml.cs",
-              "RelativeToolTip": "BarlangDoga\\Pages\\TelepulesSzur.cshtml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBwAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Osszesito.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Osszesito.cshtml.cs",
+              "RelativeDocumentMoniker": "BarlangDoga\\Pages\\Osszesito.cshtml.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Osszesito.cshtml.cs",
+              "RelativeToolTip": "BarlangDoga\\Pages\\Osszesito.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:21:33.531Z",
+              "WhenOpened": "2025-09-30T06:38:16.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BarlangDoga\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BarlangDoga\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T06:37:42.652Z",
               "EditorCaption": ""
             },
             {
@@ -51,20 +76,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Osszesito.cshtml",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Osszesito.cshtml",
+              "RelativeDocumentMoniker": "BarlangDoga\\Pages\\Osszesito.cshtml",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Osszesito.cshtml",
+              "RelativeToolTip": "BarlangDoga\\Pages\\Osszesito.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T06:37:39.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TelepulesSzur.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\TelepulesSzur.cshtml.cs",
+              "RelativeDocumentMoniker": "BarlangDoga\\Pages\\TelepulesSzur.cshtml.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\TelepulesSzur.cshtml.cs",
+              "RelativeToolTip": "BarlangDoga\\Pages\\TelepulesSzur.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:21:33.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TelepulesSzur.cshtml",
               "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\TelepulesSzur.cshtml",
               "RelativeDocumentMoniker": "BarlangDoga\\Pages\\TelepulesSzur.cshtml",
               "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\TelepulesSzur.cshtml",
               "RelativeToolTip": "BarlangDoga\\Pages\\TelepulesSzur.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBAAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-30T06:20:15.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Program.cs",
               "RelativeDocumentMoniker": "BarlangDoga\\Program.cs",
@@ -72,12 +122,11 @@
               "RelativeToolTip": "BarlangDoga\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:10:01.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:10:01.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "BarlangokDbContext.cs",
               "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Data\\BarlangokDbContext.cs",
               "RelativeDocumentMoniker": "BarlangDoga\\Data\\BarlangokDbContext.cs",
@@ -85,12 +134,11 @@
               "RelativeToolTip": "BarlangDoga\\Data\\BarlangokDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:09:03.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T06:09:03.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Barlang.cs",
               "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Models\\Barlang.cs",
               "RelativeDocumentMoniker": "BarlangDoga\\Models\\Barlang.cs",

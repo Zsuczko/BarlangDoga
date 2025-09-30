@@ -1,0 +1,22 @@
+﻿@page
+@model BarlangDoga.Pages.OsszesitoModel
+@{
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Település</th>
+            <th>Barlangok száma</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Telepulesek)
+        {
+            <tr>
+                <td>@item.Key</td>
+                <td>@item.Value</td>
+            </tr>    
+        }
+    </tbody>
+</table>
