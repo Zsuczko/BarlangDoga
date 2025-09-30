@@ -1,0 +1,45 @@
+﻿@page
+@model BarlangDoga.Pages.TelepulesSzurModel
+@{
+}
+<h1>Szűrés településekk alapján</h1>
+
+<form method="get">
+
+    <select asp-for="@Model.ValasztottTelepules">
+
+        <option value="value">--Válassz egy települést--</option>
+        @foreach (var item in Model.Telepulesek)
+        {
+            <option value="@item">@item</option>    
+        }
+    </select>
+    <input type="submit" value="Szűrés"/>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Név</th>
+            <th>Hossz</th>
+            <th>Kiterjedés</th>
+            <th>Mélység</th>
+            <th>Magasság</th>
+            <th>Település</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Barlangok)
+        {
+            <tr>
+                <td>@item.Nev</td>
+                <td>@item.Hossz</td>
+                <td>@item.Kiterjedes</td>
+                <td>@item.Melyseg</td>
+                <td>@item.Magassag</td>
+                <td>@item.Telepules</td>
+            </tr>    
+        
+        }
+    </tbody>
+</table>

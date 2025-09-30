@@ -3,52 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\pages\\telepulesszur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\pages\\telepulesszur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\pages\\telepulesszur.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\pages\\telepulesszur.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\data\\barlangokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\data\\barlangokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\models\\barlang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelepulesSzur.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\TelepulesSzur.cshtml.cs",
+              "RelativeDocumentMoniker": "BarlangDoga\\Pages\\TelepulesSzur.cshtml.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\TelepulesSzur.cshtml.cs",
+              "RelativeToolTip": "BarlangDoga\\Pages\\TelepulesSzur.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:21:33.531Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -71,136 +52,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "BarlangDoga\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "BarlangDoga\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:16:25.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "BarlangDoga\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Index.cshtml",
-              "RelativeToolTip": "BarlangDoga\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TelepulesSzur.cshtml",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\TelepulesSzur.cshtml",
+              "RelativeDocumentMoniker": "BarlangDoga\\Pages\\TelepulesSzur.cshtml",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\TelepulesSzur.cshtml",
+              "RelativeToolTip": "BarlangDoga\\Pages\\TelepulesSzur.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T06:16:25.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "BarlangDoga\\Pages\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Delete.cshtml.cs",
-              "RelativeToolTip": "BarlangDoga\\Pages\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:16:25.366Z",
+              "WhenOpened": "2025-09-30T06:20:15.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Delete.cshtml",
-              "RelativeDocumentMoniker": "BarlangDoga\\Pages\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Delete.cshtml",
-              "RelativeToolTip": "BarlangDoga\\Pages\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T06:16:25.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "BarlangDoga\\Pages\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Details.cshtml.cs",
-              "RelativeToolTip": "BarlangDoga\\Pages\\Details.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:16:25.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Details.cshtml",
-              "RelativeDocumentMoniker": "BarlangDoga\\Pages\\Details.cshtml",
-              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Details.cshtml",
-              "RelativeToolTip": "BarlangDoga\\Pages\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T06:16:25.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "BarlangDoga\\Pages\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Edit.cshtml.cs",
-              "RelativeToolTip": "BarlangDoga\\Pages\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:16:24.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BarlangDoga\\Pages\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Edit.cshtml",
-              "RelativeToolTip": "BarlangDoga\\Pages\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T06:16:24.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "BarlangDoga\\Pages\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Create.cshtml.cs",
-              "RelativeToolTip": "BarlangDoga\\Pages\\Create.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T06:16:24.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Create.cshtml",
-              "RelativeDocumentMoniker": "BarlangDoga\\Pages\\Create.cshtml",
-              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Pages\\Create.cshtml",
-              "RelativeToolTip": "BarlangDoga\\Pages\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-30T06:16:24.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Program.cs",
               "RelativeDocumentMoniker": "BarlangDoga\\Program.cs",
@@ -213,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "BarlangokDbContext.cs",
               "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Data\\BarlangokDbContext.cs",
               "RelativeDocumentMoniker": "BarlangDoga\\Data\\BarlangokDbContext.cs",
@@ -226,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "Barlang.cs",
               "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Models\\Barlang.cs",
               "RelativeDocumentMoniker": "BarlangDoga\\Models\\Barlang.cs",
