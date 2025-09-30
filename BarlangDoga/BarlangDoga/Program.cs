@@ -1,3 +1,6 @@
+using BarlangDoga.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace BarlangDoga
 {
     public class Program
@@ -8,6 +11,8 @@ namespace BarlangDoga
 
             // Add services to the container.
             builder.Services.AddRazorPages();
+
+            builder.Services.AddDbContext<BarlangokDbContext>(options => options.UseSqlite("Data Source=.\\Data\\Barlangok.db"));
 
             var app = builder.Build();
 

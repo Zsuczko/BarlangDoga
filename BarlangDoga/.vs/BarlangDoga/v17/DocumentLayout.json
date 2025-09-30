@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\data\\barlangokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\data\\barlangokdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|c:\\users\\bbucz\\documents\\repos\\barlangdoga\\barlangdoga\\barlangdoga\\models\\barlang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05EB224C-46EE-451F-B1CB-EEC96E6BB7C1}|BarlangDoga\\BarlangDoga.csproj|solutionrelative:barlangdoga\\models\\barlang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,15 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Program.cs",
+              "RelativeDocumentMoniker": "BarlangDoga\\Program.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Program.cs",
+              "RelativeToolTip": "BarlangDoga\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:10:01.48Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "BarlangokDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Data\\BarlangokDbContext.cs",
+              "RelativeDocumentMoniker": "BarlangDoga\\Data\\BarlangokDbContext.cs",
+              "ToolTip": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Data\\BarlangokDbContext.cs",
+              "RelativeToolTip": "BarlangDoga\\Data\\BarlangokDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T06:09:03.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Barlang.cs",
               "DocumentMoniker": "C:\\Users\\bbucz\\Documents\\Repos\\BarlangDoga\\BarlangDoga\\BarlangDoga\\Models\\Barlang.cs",
               "RelativeDocumentMoniker": "BarlangDoga\\Models\\Barlang.cs",
